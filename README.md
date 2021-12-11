@@ -1,5 +1,7 @@
 # PrestoHacksDemo
 
+Presentation to teach iOS app development for https://prestohacks.tech/
+
 **Great resources to learn development:**
 
 https://developer.apple.com/tutorials/swiftui
